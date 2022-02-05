@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prueba-tecnica/static/css/main.e02fc88e.css",
+    "main.js": "/prueba-tecnica/static/js/main.def09d76.js",
+    "index.html": "/prueba-tecnica/index.html",
+    "main.e02fc88e.css.map": "/prueba-tecnica/static/css/main.e02fc88e.css.map",
+    "main.def09d76.js.map": "/prueba-tecnica/static/js/main.def09d76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02fc88e.css",
+    "static/js/main.def09d76.js"
+  ]
+}
